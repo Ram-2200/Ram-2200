@@ -101,3 +101,8 @@ REST APIs
 Backend Development
     ↓
 AI / ML Projects
+
+```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ram-2200&theme=tokyonight&hide_border=true" />
+</p>
