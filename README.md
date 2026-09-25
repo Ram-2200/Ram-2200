@@ -208,13 +208,15 @@ I'm working toward becoming a developer who can:
 ## 🤝 Let's Connect
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/prateek-satpathi-259100174/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:prateeksatpathips@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+**Open to connecting, learning, and building.**
 
 <p align="center">
   <i>Building. Learning. Improving. One commit at a time. 🚀</i>
