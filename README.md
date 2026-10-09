@@ -32,7 +32,7 @@ This GitHub is my learning laboratory — a place for projects, experiments, not
 |---|---|
 | 🤖 **AI / ML** | Machine Learning fundamentals & practical projects |
 | ☕ **Java** | Core Java, OOP, Collections, Java 8 & problem solving |
-| 🧠 **DSA** | Data structures & algorithmic thinking |
+| 🧠 **DSA** | Data structures, algorithms & coding practice |
 | 🗄️ **SQL** | Queries, databases & data handling |
 | 🌱 **Backend** | Spring Boot, REST APIs & backend development |
 | ☁️ **Cloud** | AWS fundamentals & cloud architecture |
@@ -45,35 +45,35 @@ This GitHub is my learning laboratory — a place for projects, experiments, not
 ### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ### ☁️ Cloud, Backend & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ### 🏢 Enterprise Technology
 
 <p>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERP-Enterprise%20Systems-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/ERP-Enterprise%20Systems-555555?style=for-the-badge" alt="ERP" />
 </p>
 
 ---
@@ -119,6 +119,24 @@ A small project combining:
 
 ---
 
+## 🧩 LeetCode & Problem Solving
+
+I use coding practice to strengthen my understanding of **data structures, algorithms, problem-solving patterns, and writing efficient solutions**.
+
+<p>
+  <a href="https://leetcode.com/u/prateeksatpathi_21/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View my LeetCode profile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/prateeksatpathi_21/">
+    <img src="https://leetcard.jacoblin.cool/prateeksatpathi_21?theme=light&font=Karma&ext=heatmap" alt="LeetCode statistics and activity heatmap" />
+  </a>
+</p>
+
+---
+
 # 🗺️ Where I'm Heading
 
 ```text
@@ -144,10 +162,6 @@ A small project combining:
               Software Engineering
                        ↓
                 AI-powered Systems
-
-
-
-
 ```
 
 ## 🧠 How I Learn
@@ -166,7 +180,7 @@ I want to understand the **fundamentals behind them** and learn how to apply the
 
 ## 🔥 100-Day Learning Journey
 
-I'm currently documenting a **100-day learning and self-improvement challenge**.
+I'm documenting a **100-day learning and self-improvement challenge**.
 
 The goal is simple:
 
@@ -209,10 +223,13 @@ I'm working toward becoming a developer who can:
 
 <p>
   <a href="https://www.linkedin.com/in/prateek-satpathi-259100174/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:prateeksatpathips@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
+  </a>
+  <a href="https://leetcode.com/u/prateeksatpathi_21/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
   </a>
 </p>
 
